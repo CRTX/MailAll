@@ -1,0 +1,11 @@
+##Interface: 70000
+##Title: Mail All Addon
+##Notes: My first addon!
+##Dependencies:
+
+Vendor/CRTX/Namespace/CRTX.lua
+
+Vendor/CRTX/Parser/Parser.lua
+
+Vendor/CRTX/Mail/Model/Mail.lua
+Vendor/CRTX/Mail/UI/Command/MailAll.lua
